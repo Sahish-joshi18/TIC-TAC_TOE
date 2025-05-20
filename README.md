@@ -27,7 +27,7 @@ A classic Tic-Tac-Toe game built with **HTML**, **CSS**, and **JavaScript**.
 ## 🌐 Live Demo
 
 Try it live here:  
-*(Add your live demo URL once deployed)*
+[Tic Tac Toe](https://sahishtictactoe.netlify.app/)
 
 ---
 
