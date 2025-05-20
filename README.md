@@ -39,4 +39,4 @@ Try it live here:
 
 ---
 
-Made with ❤️ by [Your Name](https://your-website-or-profile-link)
+Made with ❤️ by [Sahish JOshi](https://sahishjoshi.netlify.app/)
